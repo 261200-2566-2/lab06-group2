@@ -5,6 +5,7 @@ public class Boots implements Accessory{
     protected double runSpeed;
     protected double matk;
     public String type;
+
     public String name(){return name;}
     public String type(){return type;}
     public double getMatk(){
